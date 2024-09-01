@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 * [Live URL](https://render-little-url.netlify.app/)
-* [Solution](https://github.com/Plasticfoods/URL-Shortener)
+
 
 ## My process
 
